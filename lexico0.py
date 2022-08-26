@@ -20,5 +20,5 @@ reservadas = {'ifelse':'IFELSE'
 
 tokens = tokens + list(reservadas.values())
 
-t_ASSIGN = r':='
-
+t_ASSIGN = r'='
+t_
